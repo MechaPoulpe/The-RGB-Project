@@ -1,0 +1,16 @@
+{
+    "name": "nodeAPI",
+    "main": "server.js",
+    "repository": {
+      "type": "git"
+    },
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "MECHAPOULPE alias Joris Hotton",
+    "dependencies": {
+      "express": "~4.16.1",
+      "morgan": "~1.9.0",
+      "body-parser": "~1.18.2"
+    }
+  }
