@@ -2,7 +2,7 @@
 > A minimalist project with nodeJS & Hyperapp
 
 
-Install dependencies in each folder with -> npm install
+Install dependencies in each folder with `npm install`
 
 Run nodeAPI with `node server.js` in nodeAPI folder
 
