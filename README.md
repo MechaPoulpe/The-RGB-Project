@@ -5,4 +5,4 @@ Install dependencies in each folder with -> npm install
 Run nodeAPI with `node server.js` in nodeAPI folder
 Run the application `npm start` in rgbHyperapp folder
 
-Let's color :)
+Let's get color :)
